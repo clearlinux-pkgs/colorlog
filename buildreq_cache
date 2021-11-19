@@ -1,0 +1,6 @@
+6.6.0
+pypi(black)
+pypi(colorama)
+pypi(flake8)
+pypi(mypy)
+pypi(types_colorama)
